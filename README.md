@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uzair Nasir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Backend**
+
 
 - 📫 How to reach me **uzairnasir477@gmail.com**
 
